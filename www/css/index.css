@@ -1,0 +1,13 @@
+body{
+	background: #009FF4;
+	padding-top: 40px;
+}
+.logo-wrap{
+	text-align: center;
+	min-height: 27px;
+	margin: 0 auto;
+	padding: 10px 0 7px;
+}
+#welcome{
+	padding-top: 20px;
+}
